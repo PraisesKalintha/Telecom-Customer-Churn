@@ -2,8 +2,6 @@
 
 An end-to-end churn analytics dashboard built to help a telecom business understand **why customers leave, who is most at risk, and where revenue is being lost** — turning raw customer data into an actionable retention strategy.
 
-![Retention Dashboard Screenshot](https://github.com/user-attachments/assets/8ff29244-0f7c-4ceb-a172-aeffb071f6ab)
-
 ## 🔍 Overview
 
 This project analyzes a dataset of **7,000+ customers** to isolate churn drivers, quantify their financial impact, and give the business a clear roadmap for reducing attrition. The dashboard combines KPI tracking, segmentation analysis, and interactive filtering to translate raw metrics into decisions retention teams can act on.
@@ -39,6 +37,12 @@ The dashboard equips retention and marketing teams to:
 - Design targeted loyalty incentives based on tenure and billing patterns
 - Quantify the revenue impact of churn to justify retention spend
 - Drill into demographic subsegments for more precise, personalized campaigns
+
+
+<img width="1917" height="973" alt="Screenshot 2026-07-31 160602" src="https://github.com/user-attachments/assets/9ccdc4fd-7626-4a8a-bb15-b4970acc4b40" />
+<img width="1917" height="971" alt="Screenshot 2026-07-31 160719" src="https://github.com/user-attachments/assets/1c208cf3-ae5a-4a78-82b2-6e48951d19a9" />
+<img width="1917" height="970" alt="Screenshot 2026-07-31 160906" src="https://github.com/user-attachments/assets/9f30c889-f242-4ae2-9d9f-9a21779b8e5e" />
+
 
 ## 📂 Repository Contents
 
